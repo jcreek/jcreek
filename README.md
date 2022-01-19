@@ -54,6 +54,7 @@ I like to share my knowledge freely, and when I have an idea for a project that 
 
 #### 📙 Selected Blog Posts
 
+- [Adding JSNLog to ASP .Net 6 with Serilog](https://www.jcreek.co.uk/web-dev/jsnlog-asp-net-6.html)
 - [Creating a reactive SPA simply within an ASP.Net Core web app with Vue.js](https://www.jcreek.co.uk/web-dev/simple-vue-spa-in-asp-dotnet-core.html)
 - [Docker Compose for ASP.Net Core with Postgres + S3 backups](https://www.jcreek.co.uk/deploying/docker-compose-for-asp-net-core-with-postgres-and-s3-backups.html)
 - [Docker Compose for S3 Backup and Restore of PostgreSQL](https://www.jcreek.co.uk/deploying/docker-compose-s3-postgres-backup-and-restore.html)
