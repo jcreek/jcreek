@@ -20,7 +20,7 @@
 
 > I’m a Computer Science educator and Software Engineer specializing in building full stack Web Applications. 
 > 
-> For the frontend I love building reactive web applications using Vue.js & ASP.NET Core (MVC / Razor Pages). As for the backend, I work with ASP.NET Core WebAPIs and Node.js. I am a proponent of Docker containerisation and virtualisation, as well as automated testing within CI/CD workflows. For cloud computing my service of choice is AWS.
+> For the frontend I love building reactive web applications using Sveltekit, or Vue.js & ASP.NET Core (MVC / Razor Pages). As for the backend, I work with ASP.NET Core WebAPIs and Node.js. I am a proponent of Docker containerisation and virtualisation, as well as automated testing within CI/CD workflows. For cloud computing my service of choice is Azure but I like AWS too.
 > 
 > I recently began to blog, documenting things that I think could be of use to other developers.
 > 
@@ -30,8 +30,8 @@
 
 - 📜 I'm a fully-qualified teacher and taught Computer Science in inner-London in schools in challenging circumstances.
 - 🔭 I’m currently working on small web applications to save teachers time and effort and improve quality of teaching and assessing in the classroom.
-- 🌱 I’m currently learning how to create multi-tenancy applications using ASP.Net Core.
-- 👯 I’m looking to collaborate on my open source NuGet packages and Docker images (see below).
+- 🌱 I’m currently learning how to create the best LLM prompts.
+- 👯 I’m looking to collaborate on my open source projects.
 - 💬 Ask me about tackling educational inequality, launching a tech startup (especially if you're a student), Discord bots, home labs/servers or about modern web app development.
 - 📫 How to reach me: Send me a DM on Twitter or LinkedIn - you can find them by clicking the buttons above.
 - 😄 Pronouns: He/Him
