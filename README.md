@@ -22,7 +22,7 @@
 > 
 > For the frontend I love building reactive web applications using Sveltekit, or Vue.js & ASP.NET Core (MVC / Razor Pages). As for the backend, I work with ASP.NET Core WebAPIs and Node.js. I am a proponent of Docker containerisation and virtualisation, as well as automated testing within CI/CD workflows. For cloud computing my service of choice is Azure but I like AWS too.
 > 
-> I recently began to blog, documenting things that I think could be of use to other developers.
+> My degree in English (with Creative Writing modules) led me to a deep appreciation for Prompt Engineering. 
 > 
 > My roots as a Teach First Ambassador drive me to share knowledge freely and to encourage others to do the same.
 
@@ -30,12 +30,12 @@
 
 - 📜 I'm a fully-qualified teacher and taught Computer Science in inner-London in schools in challenging circumstances.
 - 🔭 I’m currently working on small web applications to save teachers time and effort and improve quality of teaching and assessing in the classroom.
-- 🌱 I’m currently learning how to create the best LLM prompts.
+- 🌱 I’m currently learning how to train reinforcement learning models.
 - 👯 I’m looking to collaborate on my open source projects.
 - 💬 Ask me about tackling educational inequality, launching a tech startup (especially if you're a student), Discord bots, home labs/servers or about modern web app development.
 - 📫 How to reach me: Send me a DM on Twitter or LinkedIn - you can find them by clicking the buttons above.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm ranked in the top 5% of players worldwide for Rocket League...but most of my friends are top 2% 🤦‍♂️
+- ⚡ Fun fact: I used to be ranked in the top 5% of players worldwide for Rocket League...but most of my friends were top 2% 🤦‍♂️
 <!-- - 🤔 I’m looking for help with ... -->
 
 #### 💻 My Current Open Source Projects
