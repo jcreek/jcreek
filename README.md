@@ -38,6 +38,19 @@
 - ⚡ Fun fact: I used to be ranked in the top 5% of players worldwide for Rocket League...but most of my friends were top 2% 🤦‍♂️
 <!-- - 🤔 I’m looking for help with ... -->
 
+#### 🚀 Recent Projects
+
+- 🌀 [SelectionWheel](https://github.com/jcreek/SelectionWheel): A free web app with a fun and simple selection wheel. Enter a list of names to shuffle them, with a spinning wheel animation.
+  - Built using Typescript and Webpack.
+- 🌟 [PokemonAdventureChatGPTPlugin](https://github.com/jcreek/PokemonAdventureChatGPTPlugin): A ChatGPT plugin that allows the user to play an interactive Pokemon adventure game, taking actions in a 'choose your own adventure' style text-based adventure story.
+  - Built using C# and the Microsoft Semantic Kernel.
+- 🃏 [EstimationPoker](https://github.com/jcreek/EstimationPoker): A free web app to allow scrum teams to easily perform estimations quickly and without unnecessary effort.
+  - Built using SvelteKit and Node.js.
+- 🌐 [Sarpy](https://github.com/jcreek/Sarpy): A reinforcement learning bot for Rocket League.
+  - Built using Python, Stable Baselines 3 and RlGym. 
+- 🧐 [WhoAtX](https://github.com/jcreek/WhoAtX): A tool for organisations and businesses to use internally, to help them find the right person to talk to about a particular topic, and to equip them to best communicate with them. In terms of naming, 'X' is your organisation or business. For example, a business called 'Acme' would call this tool 'Who At Acme?'.
+  - Built using ASP.Net and the Microsoft Semantic Kernel.
+
 #### 💻 My Current Open Source Projects
 
 I like to share my knowledge freely, and when I have an idea for a project that might be useful to others I make it open source.
