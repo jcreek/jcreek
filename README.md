@@ -29,7 +29,7 @@
 #### 💻 Hackathons
 
 - Winner of Microsoft's Semantic Kernel Hackathon #1 (August 2023) 'Most Fun and Creative' category.
-  - Project: Pokemon Adventure Chat GPT Plugin
+  - Project: Pokemon Adventure ChatGPT Plugin
   - A ChatGPT plugin that allows the user to play an interactive Pokemon adventure game, taking actions in a 'choose your own adventure' style text-based adventure story.
   - [Repo](https://github.com/jcreek/PokemonAdventureChatGPTPlugin)
   - [Microsoft Interview](https://www.youtube.com/watch?v=C-UhdzCwfhY)
