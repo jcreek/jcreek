@@ -18,13 +18,27 @@
  </a>
 </p>
 
-> I’m a Computer Science educator and Software Engineer specializing in building full stack Web Applications. 
+> I’m a Computer Science educator and Software Engineer specializing in building full stack Web Applications.
 > 
 > For the frontend I love building reactive web applications using Sveltekit, or Vue.js & ASP.NET Core (MVC / Razor Pages). As for the backend, I work with ASP.NET Core WebAPIs and Node.js. I am a proponent of Docker containerisation and virtualisation, as well as automated testing within CI/CD workflows. For cloud computing my service of choice is Azure but I like AWS too.
-> 
-> My degree in English (with Creative Writing modules) led me to a deep appreciation for Prompt Engineering. 
-> 
+>
+> My degree in English (with Creative Writing modules) led me to a deep appreciation for Prompt Engineering.
+>
 > My roots as a Teach First Ambassador drive me to share knowledge freely and to encourage others to do the same.
+
+#### 💻 Hackathons
+
+- Winner of Microsoft's Semantic Kernel Hackathon #1 (August 2023) 'Most Fun and Creative' category.
+  - Project: Pokemon Adventure Chat GPT Plugin
+  - A ChatGPT plugin that allows the user to play an interactive Pokemon adventure game, taking actions in a 'choose your own adventure' style text-based adventure story.
+  - [Repo](https://github.com/jcreek/PokemonAdventureChatGPTPlugin)
+  - [Microsoft Interview](https://www.youtube.com/watch?v=C-UhdzCwfhY)
+  <!-- - [Interview backup](https://www.youtube.com/watch?v=o6QmmIG7QJc) -->
+- Finalist of Microsoft's Semantic Kernel Hackathon #2 (December 2023).
+  - Project: Interactive History Explorer ChatGPT Plugin
+  - An interactive plugin that uses SK and GPT to create personalised, immersive journeys through different historical eras, complete with interactive dialogues and historical trivia.
+  - [Repo](https://github.com/jcreek/HistoryExplorerChatGPTPlugin)
+  <!-- - [Microsoft Blog Post]() -->
 
 #### 👨‍🏫 A Little About Me
 
@@ -42,12 +56,10 @@
 
 - 🌀 [SelectionWheel](https://github.com/jcreek/SelectionWheel): A free web app with a fun and simple selection wheel. Enter a list of names to shuffle them, with a spinning wheel animation.
   - Built using Typescript and Webpack.
-- 🌟 [PokemonAdventureChatGPTPlugin](https://github.com/jcreek/PokemonAdventureChatGPTPlugin): A ChatGPT plugin that allows the user to play an interactive Pokemon adventure game, taking actions in a 'choose your own adventure' style text-based adventure story.
-  - Built using C# and the Microsoft Semantic Kernel.
 - 🃏 [EstimationPoker](https://github.com/jcreek/EstimationPoker): A free web app to allow scrum teams to easily perform estimations quickly and without unnecessary effort.
   - Built using SvelteKit and Node.js.
 - 🌐 [Sarpy](https://github.com/jcreek/Sarpy): A reinforcement learning bot for Rocket League.
-  - Built using Python, Stable Baselines 3 and RlGym. 
+  - Built using Python, Stable Baselines 3 and RlGym.
 - 🧐 [WhoAtX](https://github.com/jcreek/WhoAtX): A tool for organisations and businesses to use internally, to help them find the right person to talk to about a particular topic, and to equip them to best communicate with them. In terms of naming, 'X' is your organisation or business. For example, a business called 'Acme' would call this tool 'Who At Acme?'.
   - Built using ASP.Net and the Microsoft Semantic Kernel.
 
@@ -75,7 +87,7 @@ I like to share my knowledge freely, and when I have an idea for a project that 
 
 #### Trivia
 
-- 📝 I blog here: www.jcreek.co.uk
+- 📝 I blog here: [www.jcreek.co.uk](www.jcreek.co.uk)
 - 📫 Follow me on Twitter [@jcreek](https://twitter.com/jcreek)
 - ⭐ Endorse me / Leave a Recommendation on Linkedin [@jrcreek](https://www.linkedin.com/in/jrcreek/)
 - 👨‍💼 Long Term Career Aim - To run my own education software house 3 days a week, teaching Computer Science the other 2 days a week and inspiring the next generation of coders.
