@@ -18,9 +18,9 @@
  </a>
 </p>
 
-> I’m a Computer Science educator and Software Engineer specializing in building full stack Web Applications.
+> I’m a Computer Science educator and Managing Senior Software Engineer specialising in building full stack Web Applications.
 > 
-> For the frontend I love building reactive web applications using Sveltekit, or Vue.js & ASP.NET Core (MVC / Razor Pages). As for the backend, I work with ASP.NET Core WebAPIs and Node.js. I am a proponent of Docker containerisation and virtualisation, as well as automated testing within CI/CD workflows. For cloud computing my service of choice is Azure but I like AWS too.
+> For the frontend I love building reactive web applications using Sveltekit, or Vue.js & ASP.NET Core (MVC / Razor Pages). As for the backend, I work with ASP.NET Core WebAPIs and Node.js with TypeScript. I am a proponent of Docker containerisation and virtualisation, as well as automated testing within CI/CD workflows. For cloud computing my service of choice is Azure but I like AWS too.
 >
 > My degree in English (with Creative Writing modules) led me to a deep appreciation for Prompt Engineering.
 >
