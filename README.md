@@ -54,19 +54,21 @@
 
 #### 🚀 Recent Projects
 
-- 🌀 [SelectionWheel](https://github.com/jcreek/SelectionWheel): A free web app with a fun and simple selection wheel. Enter a list of names to shuffle them, with a spinning wheel animation.
-  - Built using Typescript and Webpack.
-- 🃏 [EstimationPoker](https://github.com/jcreek/EstimationPoker): A free web app to allow scrum teams to easily perform estimations quickly and without unnecessary effort.
-  - Built using SvelteKit and Node.js.
-- 🌐 [Sarpy](https://github.com/jcreek/Sarpy): A reinforcement learning bot for Rocket League.
-  - Built using Python, Stable Baselines 3 and RlGym.
-- 🧐 [WhoAtX](https://github.com/jcreek/WhoAtX): A tool for organisations and businesses to use internally, to help them find the right person to talk to about a particular topic, and to equip them to best communicate with them. In terms of naming, 'X' is your organisation or business. For example, a business called 'Acme' would call this tool 'Who At Acme?'.
-  - Built using ASP.Net and the Microsoft Semantic Kernel.
+- 📄 [SvelteKit SaaS Boilerplate](https://github.com/jcreek/SvelteKitSaasBoilerplate): A SvelteKit boilerplate project for a SaaS.
+  - Built using SvelteKit, Node.js, TypeScript, Supabase, Stripe, Netlify, and Tailwind CSS.
+- ⭕️ [Tech Radar Editor](https://github.com/jcreek/Tech-Radar-Editor): A web component that allows users to easily create and edit a Tech Radar.
+  - Built using Svelte, TypeScript and Tailwind CSS.
+- 📱 [Living Dex Tracker](https://github.com/jcreek/LivingDexTracker): A web app to track completion of a living Pokédex.
+  - Built using SvelteKit, Node.js, TypeScript, Subabase, MongoDB, Netlify, and Tailwind CSS. 
 
 #### 💻 My Current Open Source Projects
 
 I like to share my knowledge freely, and when I have an idea for a project that might be useful to others I make it open source.
 
+- 🃏 [EstimationPoker](https://github.com/jcreek/EstimationPoker): A free web app to allow scrum teams to easily perform estimations quickly and without unnecessary effort.
+  - Built using SvelteKit and Node.js.
+- 🌀 [SelectionWheel](https://github.com/jcreek/SelectionWheel): A free web app with a fun and simple selection wheel. Enter a list of names to shuffle them, with a spinning wheel animation.
+  - Built using Typescript and Webpack.
 - 📺 [YouTubeChannelDownloader](https://github.com/jcreek/YouTubeChannelDownloader): A docker container (can also be run as a Windows console app) to download all videos from a YouTube channel in the highest quality available, and move them via SFTP to another device for processing. This is ideal for Plex.
   - Built as a Dotnet Core console application and Dockerised to run on any host OS. Once fully complete it will be able to be run directly from an image on Docker Hub.
 - 📁 [Creek.FileRepository](https://github.com/jcreek/Creek.FileRepository): An easy way to hook up various file storage mechanisms, following the repository pattern with a factory. For example, SFTP.
