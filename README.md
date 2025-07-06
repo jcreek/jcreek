@@ -40,8 +40,11 @@
   - [Repo](https://github.com/jcreek/HistoryExplorerChatGPTPlugin)
   <!-- - [Microsoft Blog Post]() -->
 - Entrant in Microsoft's Agentic AI Hackathon
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2e989d62-5ed3-423c-9433-d21ffb6951bf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+   <a href="https://www.credly.com/badges/2e989d62-5ed3-423c-9433-d21ffb6951bf/public_url">
+   <img src="https://images.credly.com/images/648f7e43-0438-4607-a6cb-140a60d643d3/blob" width=100 height=100/>
+ </a>
+ 
 #### 👨‍🏫 A Little About Me
 
 - 📜 I'm a fully-qualified teacher and taught Computer Science in inner-London in schools in challenging circumstances.
