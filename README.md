@@ -39,6 +39,8 @@
   - An interactive plugin that uses SK and GPT to create personalised, immersive journeys through different historical eras, complete with interactive dialogues and historical trivia.
   - [Repo](https://github.com/jcreek/HistoryExplorerChatGPTPlugin)
   <!-- - [Microsoft Blog Post]() -->
+- Entrant in Microsoft's Agentic AI Hackathon
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2e989d62-5ed3-423c-9433-d21ffb6951bf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 #### 👨‍🏫 A Little About Me
 
